@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1794737051059",
+    "nombre": "Parcela de prueba #2",
+    "latitud": 31.4708973,
+    "longitud": -106.4685055,
+    "ancho": 200,
+    "largo": 200,
+    "profundidad": 1,
+    "humedad": 13,
+    "ph": 8.4,
+    "materiaOrganica": 0.86,
+    "fechaCreacion": "2026-11-15T04:04:11.059"
+  },
+  {
+    "id": "1794748277751",
+    "nombre": "Parcela de prueba #1",
+    "latitud": 31.4708973,
+    "longitud": -106.4685055,
+    "ancho": 100,
+    "largo": 30,
+    "profundidad": 1,
+    "humedad": 13,
+    "ph": 8.4,
+    "materiaOrganica": 0.86,
+    "fechaCreacion": "2026-11-15T07:11:17.751"
+  },
+  {
+    "id": "1794749107492",
+    "nombre": "Experimental plot",
+    "latitud": 21.110829,
+    "longitud": -89.608861,
+    "ancho": 100,
+    "largo": 100,
+    "profundidad": 1,
+    "humedad": 33,
+    "ph": 7.3,
+    "materiaOrganica": 7.76,
+    "fechaCreacion": "2026-11-15T07:25:07.492"
+  }
+]

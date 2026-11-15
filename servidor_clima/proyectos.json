@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1794728812851",
+    "nombre": "Parcela experimental",
+    "latitud": 21.110825,
+    "longitud": -89.60886,
+    "ancho": 50,
+    "largo": 30,
+    "profundidad": 1,
+    "humedad": 24.8,
+    "ph": 6.5,
+    "materiaOrganica": 3.2,
+    "fechaCreacion": "2026-11-15T01:46:52.851"
+  },
+  {
+    "id": "1794729593148",
+    "nombre": "Parcela experimental",
+    "latitud": 21.110829,
+    "longitud": -89.608859,
+    "ancho": 50,
+    "largo": 30,
+    "profundidad": 1,
+    "humedad": 24.8,
+    "ph": 6.5,
+    "materiaOrganica": 3.2,
+    "fechaCreacion": "2026-11-15T01:59:53.148"
+  },
+  {
+    "id": "1794726299535",
+    "nombre": "Parcela experimental",
+    "latitud": 21.110829,
+    "longitud": -89.608859,
+    "ancho": 50,
+    "largo": 30,
+    "profundidad": 1,
+    "humedad": 33,
+    "ph": 7.3,
+    "materiaOrganica": 7.76,
+    "fechaCreacion": "2026-11-15T01:04:59.535"
+  },
+  {
+    "id": "1794729410588",
+    "nombre": "Parcela experimental",
+    "latitud": 21.110829,
+    "longitud": -89.608864,
+    "ancho": 50,
+    "largo": 30,
+    "profundidad": 1,
+    "humedad": 33,
+    "ph": 7.3,
+    "materiaOrganica": 7.76,
+    "fechaCreacion": "2026-11-15T01:56:50.588"
+  }
+]

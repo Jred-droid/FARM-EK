@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dark-furnace-436804-i6",
+  "private_key_id": "911135b21970fd7eca71ed7fce71556b2abf03c7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDifYZYLPkAltw9\naXwhTh/t2eo8EJ5JkqFjepCgBEz9/6YSCLzZkPjonhuIAfSuLh+nh1LMJhQaCq4a\nDU7jmQsPd8X4cs+UpWgZYDPk02hoBF+Cgs27VOTi6bqUdEMbFfphkBfwixtTFmDC\nDD5wqC7jz+5bMGHayNj7El4btvwQ4K7rW8HTvJVU2kG8D7rASmS16EodMF502RIz\nFm1eRY0HUhxHd+QgK8uXNR0MGtNDwMutq2eL2B5oX+HR5DcrJ58o6ssUktheupAi\nWLUcmM7ggfZNwYBbksiX+PHBAK4rwtKaFRSZtk8FkoUqrJVd82SS2FDHVfb3m2Ml\nuaMrJLd/AgMBAAECggEAKCcNwqMSb9bO67pALd1eTroDyys9DJkIsIyhiCTLC3qf\nk/HlnQKVBhRFmDqUiK6XoQkeFiAoDyfWjrrOQg43RkI7IB0mjNk4F8uU15vdFhe0\nYPxUgcH+o/XAxKHJ5crjLRmxDM10hing9HXcOfeu/Gc4AAWXS4Sw5u3uLiamEE2X\nagf5TSprtscEI5RUq1htJos2NFge27ePpBxNnxOUrzGXDNhNXtejnhvzfwFimPC0\n3f+Aq9RP/ELAuS8f+1V3upFymCySdPMnbglAEIUD/4OaSrcrd1NQrqAXybWJEuSx\nudZLsaRFrAUWtRGAu0PODGHhDI1ECghWbMRLrEsY5QKBgQD86Gw4uDD2KGQSQASX\nrbS+TbJ4zi8C0gGypv3yexYonFldZyUwWligWVIb9jMGGRHQTsSfwh0P3DKvc2rz\nfWta0gXpQX63zheJdcXJNNjLFOzKcxslk5Q5sjIxnNohkphCfg3NZY5TO/LAPomD\n0TBZqzi3d6BHGj2oBx16SGNZQwKBgQDlQmroGnX555Qvtrs0LZAY+86M9V1SmxZQ\n5BbEbZBplvpqMNDc+QrTxeOV+BXWvojpZco4ie6evDzzh6tVJDC8gtkAl5KWY/BS\nySipQg3OCwbhkjFDSxQS9Wc/MU8E5L9VKxaMAXfWlotAL+tfF41Zq+ykQ4HOa0cX\nlQxHuFs3FQKBgQDEzENyO3n2AmYkgWZRdR0BPMqVELQqOKqTjzhq2HbcsRUlBl88\n6gCu/fJTydfYdeeTtcdxHYap0corFt/xivXf3TA2Wv21H4zXLSr0L8hG9whvXPSR\n3+3mm5BNZOWkXENY8mfhHZaLlEmIaOFvDnfWPtNKiK7SxUuXFbpNbkjIqwKBgQDh\n8XRFLZbp5TahU5jqEqF6TejB+SuxNtFmhXR+wHBb8AT51QRzUyo9jkD+01JKotty\nEvSahi3a2S/E3weXUKSLlPVi5P7+Ip5+KGxfa48JasqsUxUj+gFdsefAWstCymJb\nAK0m7Gd74EB60P9KZ37SSmNdfH6YvheBgU5p/KJBBQKBgQCBUkXT+ZwQoE1bkrti\nMgYY4NXBQX6BU1XuXSm0Aele/KT/llTRfdclnjSGVoZ6aip5kptcjxNs4ninja3g\n5eMCMbPOSXwL+Lf0rbQo1Dq6PSvrnCHqFbDd3QIoahyagyE//KidR75TmUeGhKOX\nFtFNCu0y29GchBdtoItsmArWYA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "earth-engine-service@dark-furnace-436804-i6.iam.gserviceaccount.com",
+  "client_id": "112187304857195471459",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/earth-engine-service%40dark-furnace-436804-i6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
